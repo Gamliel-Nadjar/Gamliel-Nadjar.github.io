@@ -71,6 +71,23 @@ body {
 	margin-left: 300px;
 }
 
+.btnC
+{
+	border-radius: 15px;
+	height: 70px;
+	width: 300px;
+	color: whitesmoke;
+	margin-left: 120px;
+	font-size: 20px;
+	font-family: 'Algerian';
+	background-color: rgb(255, 0, 119);
+}
+
+#costarRefait
+{
+	border-radius: 15px;
+}
+
 ::-moz-selection {
 	color:#333;
 }
